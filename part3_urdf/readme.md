@@ -47,7 +47,6 @@ apt update
 apt install ros-noetic-rviz
 ```
 
-```
 ## 将 URDF 加载到 ROS 参数服务器
 
 在 RViz 中：
